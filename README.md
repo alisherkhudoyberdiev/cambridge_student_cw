@@ -21,3 +21,5 @@
 | 18. | Logistika faoliyatini olib boruvchi korxonalar uchun web saytning HTML,CSS yordamida statik sahifasini yaratish. |Abdullayev Ravshan Xabibulloyevich |
 | 19. | Banklar uchun web saytning HTML,CSS yordamida statik sahifasini yaratish. | Raxmonov Samir|
 | 20. | Poligrafiya xizmatlari uchun web saytning HTML,CSS yordamida statik sahifasini yaratish. | Negmatov Azimjon Davronovich|
+| 21. | Kiber-o'yinlar o'ynash xizmatini ko'rsatuvchilar uchun web saytning HTML,CSS yordamida statik sahifasini yaratish.| Sayfiddinov Doston Djafarovich|
+| 22. | Online til o'rganish markazi web saytning HTML,CSS yordamida statik sahifasini yaratish.uchun  | Eshmirzayeva Ruxshona Rustamovna|
